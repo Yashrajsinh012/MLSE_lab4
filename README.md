@@ -8,7 +8,7 @@ This project demonstrates a simple **Machine Learning pipeline** (Linear Regress
 ## How to Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/mpn311/202418012_MLops_Lab-4.git
+git clone https://github.com/Yashrajsinh012/202418012_MLops_Lab-4.git
 cd 202418012_MLops_Lab-4
 
 # Install dependencies

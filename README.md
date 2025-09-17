@@ -23,7 +23,7 @@ dvc repro
 # Show tracked metrics
 dvc metrics show
 
-202418012_MLops_Lab-4/
+
 ├─ data/
 │   └─ raw/                  # Raw dataset (input data)
 │
